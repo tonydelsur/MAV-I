@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(39,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(39,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(40,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(40,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(43,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(43,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(44,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\main.cpp(44,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  3-2.vcxproj -> C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3-2\Debug\3-2.exe

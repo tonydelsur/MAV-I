@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Antonio\source\repos\Unidad3\Unidad3\main.cpp(36,12): error C2065: 'Sprite_color': identificador no declarado
+C:\Users\Antonio\source\repos\Unidad3\Unidad3\main.cpp(37,12): error C2065: 'Sprite_bw': identificador no declarado

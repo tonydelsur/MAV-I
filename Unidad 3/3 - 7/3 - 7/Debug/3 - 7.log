@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,59): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,59): warning C4244:         with
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,59): warning C4244:         [
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,59): warning C4244:             T=unsigned int
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,59): warning C4244:         ]
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,27): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,27): warning C4244:         with
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,27): warning C4244:         [
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,27): warning C4244:             T=unsigned int
+D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\main.cpp(35,27): warning C4244:         ]
+  3 - 7.vcxproj -> D:\Estudiante\Documentos\Visual Studio 2022\MAV-I\Unidad 3\3 - 7\Debug\3 - 7.exe

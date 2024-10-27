@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudiante\\Documentos\\Visual Studio 2022\\MAV-I\\Unidad 3\\3 - 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76927112-66AF-4461-AF91-3D0C4D0150A0}|3 - 7.vcxproj|D:\\Estudiante\\Documentos\\Visual Studio 2022\\MAV-I\\Unidad 3\\3 - 7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76927112-66AF-4461-AF91-3D0C4D0150A0}|3 - 7.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Estudiante\\Documentos\\Visual Studio 2022\\MAV-I\\Unidad 3\\3 - 7\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Estudiante\\Documentos\\Visual Studio 2022\\MAV-I\\Unidad 3\\3 - 7\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T15:36:56.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

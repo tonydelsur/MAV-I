@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3 - 4\main.cpp(35,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3 - 4\main.cpp(35,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  3 - 4.vcxproj -> C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 3\3 - 4\Debug\3 - 4.exe

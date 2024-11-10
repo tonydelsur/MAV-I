@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(22,32): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(22,32): warning C4244:         with
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(22,32): warning C4244:         [
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(22,32): warning C4244:             T=unsigned int
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(22,32): warning C4244:         ]
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(23,35): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(23,35): warning C4244:         with
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(23,35): warning C4244:         [
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(23,35): warning C4244:             T=unsigned int
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(23,35): warning C4244:         ]
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,61): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,61): warning C4244:         with
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,61): warning C4244:         [
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,61): warning C4244:             T=unsigned int
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,61): warning C4244:         ]
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,32): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,32): warning C4244:         with
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,32): warning C4244:         [
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,32): warning C4244:             T=unsigned int
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(24,32): warning C4244:         ]
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,65): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,65): warning C4244:         with
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,65): warning C4244:         [
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,65): warning C4244:             T=unsigned int
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,65): warning C4244:         ]
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,32): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,32): warning C4244:         with
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,32): warning C4244:         [
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,32): warning C4244:             T=unsigned int
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(25,32): warning C4244:         ]
+C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\main.cpp(57,38): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  4 - 2 circulos - adaptación con arreglos de 5 sprites.vcxproj -> C:\Users\Antonio\Documents\Visual Studio 2022\TDyPVJ\MAV-I\Unidad 4\4 - 2 circulos - adaptación con arreglos de 5 sprites\Debug\4 - 2 circulos - adaptación con arreglos de 5 sprites.exe

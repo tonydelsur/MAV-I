@@ -4,7 +4,7 @@
 int main() {
     // Crear la ventana
     sf::RenderWindow App(sf::VideoMode(800, 600), "Atrapado");
-    App.setFramerateLimit(60);
+    
 
     // Variable bool para cambio de textura
     bool cuadrado = true;
@@ -13,13 +13,13 @@ int main() {
     sf::Texture squareTexture;
     sf::Texture circleTexture;
 
-    squareTexture.loadFromFile("./assets/cuad_yellow.png"); // pare evitar errores de escala con los límites de ventana, se escalo a 128x128
+    squareTexture.loadFromFile("./assets/cuad_yellowE.png"); // pare evitar errores de escala con los límites de ventana, se escalo a 128x128
 
     circleTexture.loadFromFile("./assets/rcircle.png");
 
     // Crear sprite inicial con textura de cuadrado
     sf::Sprite sprite(squareTexture);
-    sprite.setPosition(400.f, 300.f); // Posición inicial en el centro
+    sprite.setPosition(400, 300); // Posición inicial en el centro
 
     const float speed = 5.0f; // Velocidad de movimiento
 

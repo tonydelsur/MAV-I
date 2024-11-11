@@ -13,6 +13,7 @@ sf::Texture t_circulo;
 
 int main() {
     sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Sprites Moviendo");
+    //App.setMouseCursorVisible(true);
     t_circulo.loadFromFile("./assets/rcircle.png");
     circulo.setTexture(t_circulo);
     circulo.setPosition(300, 200);
